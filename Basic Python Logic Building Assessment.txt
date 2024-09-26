@@ -1,0 +1,54 @@
+1. Write a Python program that accepts a sequence of comma-separated numbers from the user and generates a list and a tuple of those numbers.
+Sample input : 3, 5, 7, 23
+Output :
+List : ['3', ' 5', ' 7', ' 23']
+Tuple : ('3', ' 5', ' 7', ' 23')
+
+2. Write a Python program to display the first and last colors from the following list.
+color_list = ["Red","Green","White" ,"Black"]
+
+3. Write a Python program that checks whether a specified value is contained within a group of values.
+Test Data :
+3 -> [1, 5, 8, 3] : True
+-1 -> [1, 5, 8, 3] : False
+
+4. Write a Python program to print all odd numbers from a given list of numbers in the same order and stop printing any after 237 in the sequence.
+Sample numbers list :
+
+numbers = [    
+    386, 462, 47, 418, 907, 344, 236, 375, 823, 566, 597, 978, 328, 615, 953, 345, 
+    399, 162, 758, 219, 918, 237, 412, 566, 826, 248, 866, 950, 626, 949, 687, 217, 
+    815, 67, 104, 58, 512, 24, 892, 894, 767, 553, 81, 379, 843, 831, 445, 742, 717, 
+    958,743, 527
+    ]
+
+5. Write a Python program that prints out all colors from color_list_1 that are not present in color_list_2.
+Test Data :
+color_list_1 = set(["White", "Black", "Red"])
+color_list_2 = set(["Red", "Green"])
+Expected Output :
+{'Black', 'White'}
+
+6. Write a Python program to reverse the digits of a given number and add them to the original. Repeat this procedure if the sum is not a palindrome.
+Note: A palindrome is a word, number, or other sequence of characters which reads the same backward as forward, such as madam or racecar.
+
+7. Write a Python program to find the name of the oldest student in a given dictionary containing the names and ages of a group of students.
+Sample Input:
+{"Bernita Ahner": 12, "Kristie Marsico": 11, "Sara Pardee": 14, "Fallon Fabiano": 11, "Nidia Dominique": 15}
+{"Nilda Woodside": 12, "Jackelyn Pineda": 12.2, "Sofia Park": 12.4, "Joannie Archibald": 12.6, "Becki Saunder": 12.7}
+Sample Output:
+Nidia Dominique
+Becki Saunder
+
+8. Write a Python program to check if two given numbers are Co Prime or not. Return True if two numbers are Co Prime otherwise return false.
+Sample Input:
+(17, 13)
+(17, 21)
+(15, 21)
+(25, 45)
+Sample Output:
+True
+True
+False
+False
+

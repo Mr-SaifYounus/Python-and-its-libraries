@@ -1,0 +1,26 @@
+Row Labels,Sum of mpg,Sum of cylinders,Sum of horsepower,Sum of weight,Sum of acceleration,Sum of model,Sum of displacement
+Audi 100 LS,24,6,90,2430,14.5,70,107
+BMW 2002,26,4,113,2234,12.5,70,121
+Buick Skylark 320,15,8,165,3693,11.5,70,350
+US,15,8,165,3693,11.5,70,350
+Chevrolet Chevelle Malibu,18,8,130,3504,12,70,307
+US,18,8,130,3504,12,70,307
+Chevrolet Vega 2300,28,4,90,2264,15.5,71,140
+US,28,4,90,2264,15.5,71,140
+Citroen DS-21 Pallas,0,4,115,3090,17.5,70,133
+Europe,0,4,115,3090,17.5,70,133
+Datsun PL510,54,8,176,4260,29,141,194
+Japan,54,8,176,4260,29,141,194
+Peugeot 504,25,6,87,2672,17.5,70,110
+Europe,25,6,87,2672,17.5,70,110
+Plymouth Satellite,18,6,150,3436,11,70,318
+US,18,6,150,3436,11,70,318
+Saab 99e,25,4,95,2375,17.5,70,104
+Europe,25,4,95,2375,17.5,70,104
+Toyota Corolla Mark ii,24,4,95,2372,15,70,113
+Japan,24,4,95,2372,15,70,113
+Volkswagen 1131 Deluxe Sedan,26,4,46,1835,20.5,70,97
+Europe,26,4,46,1835,20.5,70,97
+(blank),,,8538,,,,
+(blank),,,8538,,,,
+Grand Total,283,66,9890,34165,194,912,2094
